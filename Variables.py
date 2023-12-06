@@ -59,3 +59,19 @@
 # print("Printing the Complex Number is:- ", Complex)
 # print("Printing the complex number using format method {}".format(Complex))
 # print(f"Printing the complex number using format method:-2 {Complex}")
+
+#<---------Multiple Assignment------>
+
+# Name = "Priyank"
+# Age = 19
+# Title= "Developer"
+
+# Name,Age,Title = "Priyank",19,"Developer"
+
+# Priyank=30
+# Shrey=30
+# Ayush=30
+
+# Priyank = Shrey = Ayush = 30
+
+# print(Shrey)
