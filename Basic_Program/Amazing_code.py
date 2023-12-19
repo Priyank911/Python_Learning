@@ -6,5 +6,11 @@
 
 # Python Pistol Operator
 
-*_, = 'abcd'
-print(_)
+# *_, = 'abcd'
+# print(_)
+
+# List 
+
+Exercise_list = ['First name',[123,456,[0,'Hello :)']],'bye']
+solution_var = Exercise_list[1][2][1]
+print(solution_var)
