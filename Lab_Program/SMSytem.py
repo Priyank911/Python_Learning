@@ -19,7 +19,7 @@ class Student:
             print(f"- {subject}")
 
 
-class SchoolManagementSystem:
+class SmSystem:
     def __init__(self):
         self.students = []
 
@@ -39,8 +39,7 @@ class SchoolManagementSystem:
             student.display_details()
             print()
 
-# Main Program
-school_system = SchoolManagementSystem()
+school_system = SmSystem()
 
 while True:
     print("\nSelect an option:")
