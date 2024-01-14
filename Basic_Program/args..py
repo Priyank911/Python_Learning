@@ -2,8 +2,8 @@
 
 def add(*args):
     sum= 0
-    args=list(args)
-    args[0]=12
+    # args=list(args)  # here we do Updation in args using list 
+    # args[0]=12     # By passing a Value in List using indexing
     for i in args:
         sum += i
     return sum
