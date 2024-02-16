@@ -1,7 +1,8 @@
 #Variables---->
 
 #<-------String---------->
-#Here Variables are Container to store the Value
+#Variables is just name it can reflect the store the data---->(Here Variables are Container to store the Value) 
+
 
 # first_name = "Priyank" # Here Python direct take string value without declare
 # last_name = "Panchal"

@@ -1,0 +1,12 @@
+------Variables---------
+Variables is just name it can reflect the store the data
+------DataType----------
+It tells us type of data and size of cell 
+There are two type of Datatype:- 
+1.Primitive     2.Non-Primitive (Class, String, Array)  
+                      |
+                Reference type 
+                    
+                    eg. classname nameofobject = new classname();
+                                                     |    
+                                 (It Reference to the class reference of nameofobject) 
