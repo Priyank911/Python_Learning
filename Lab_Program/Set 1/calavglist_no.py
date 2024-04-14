@@ -1,3 +1,7 @@
-number = int(input("Enter Length of list"))
+number = int(input("Enter Length of list: "))
 arr = list(map(int,input().split()))[:number]
-print(arr)
+sum = 0
+for i in arr:
+    sum = sum + i 
+avg = sum / number
+print("Average of list is: ", avg)
